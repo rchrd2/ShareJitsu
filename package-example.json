@@ -9,8 +9,14 @@
     "node": "0.8.x"
   },
   "dependencies": {
-    "share": "*",
-    "connect": "*",
-    "browserchannel": "*"
+    "share": "0.5.0",
+    "connect": "2.7.3",
+    "browserchannel": "1.0.0",
+    "coffee-script": "1.6.0",
+    "cookie-signature": "*",
+    "pause": "*",
+    "bytes": "*",
+    "debug": "*",
+    "send": "*"
   }
 }
